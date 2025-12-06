@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/highberg-landing/static/css/main.acb3dbd8.css",
+    "main.js": "/highberg-landing/static/js/main.156984ac.js",
+    "index.html": "/highberg-landing/index.html",
+    "main.acb3dbd8.css.map": "/highberg-landing/static/css/main.acb3dbd8.css.map",
+    "main.156984ac.js.map": "/highberg-landing/static/js/main.156984ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb3dbd8.css",
+    "static/js/main.156984ac.js"
+  ]
+}
